@@ -11,7 +11,7 @@
 
 
 
-|       Dataset       | TextING | TextGCN |
+|       Dataset       | 图分类 | 节点分类 |
 | :-----------------: | :-----: | :-----: |
 |      GossipCop      | 79.13%  | 79.25%  |
 |  GossipCop(masked)  | 78.09%  | 77.23%  |
